@@ -58,3 +58,5 @@ I document my malware analysis research, CTF writeups, and Red Team methodologie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredoespin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.espinber@gmail.com)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-11191f?style=for-the-badge&logo=hackthebox&logoColor=00FF00)](https://profile.hackthebox.com/profile/019c6ac0-02f4-7364-8bb8-d27fcfe855ec)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C12127?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Stuocs)
