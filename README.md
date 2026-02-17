@@ -1,6 +1,7 @@
 # Hi, I'm Stuocs
 
 > **System Administrator** pivoting to **Offensive Security**
+
 > **Active Directory Specialist** | **CTF Player**
 
 ---
@@ -43,15 +44,11 @@ I document my malware analysis research, CTF writeups, and Red Team methodologie
 
 ---
 
-### Performance & Stats
+### Performance & Platforms
 
 <div align="center">
   <a href="https://github.com/Stuocs">
-    <img src="https://github-readme-stats.vercel.app/api?username=Stuocs&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://tryhackme.com/p/Stuocs">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=977925" style='border:none; width: 400px; height: 150px;'></iframe>
+    <img src="https://github-readme-stats.vercel.app/api?username=Stuocs&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -61,4 +58,3 @@ I document my malware analysis research, CTF writeups, and Red Team methodologie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredoespin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.espinber@gmail.com)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-11191f?style=for-the-badge&logo=hackthebox&logoColor=00FF00)](https://profile.hackthebox.com/profile/019c6ac0-02f4-7364-8bb8-d27fcfe855ec)
