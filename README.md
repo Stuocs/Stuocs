@@ -51,7 +51,7 @@ I document my malware analysis research, CTF writeups, and Red Team methodologie
   </a>
   
   <a href="https://tryhackme.com/p/Stuocs">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=977925" style='border:none;'></iframe>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=977925" style='border:none; width: 400px; height: 150px;'></iframe>
   </a>
 </div>
 
