@@ -50,8 +50,8 @@ I document my malware analysis research, CTF writeups, and Red Team methodologie
     <img src="https://github-readme-stats.vercel.app/api?username=Stuocs&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
   </a>
   
-  <a href="https://tryhackme.com/p/Alesber">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Alesber.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/Stuocs">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Stuocs.png" alt="TryHackMe Badge" />
   </a>
 </div>
 
