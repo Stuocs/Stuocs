@@ -49,7 +49,7 @@ I document my malware analysis research, CTF writeups, and Red Team methodologie
 <div align="center">
   <a href="https://github.com/Stuocs">
     <img src="https://github-readme-stats.vercel.app/api?username=Stuocs&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Stuocs.png" alt="TryHackMe Profile Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Stuocs.png?v=1" alt="TryHackMe Profile Badge" />
 
   </a>
 </div>
